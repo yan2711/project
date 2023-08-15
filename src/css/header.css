@@ -1,0 +1,38 @@
+.header-block {
+  width: 1920px;
+  height: 100px;
+  background: rgba(16, 16, 29, 0.9);
+  display: inline-block;
+  position: fixed; }
+  .header-block__logo {
+    margin-left: 375px;
+    margin-right: 487px;
+    color: #FFFFFF;
+    font-family: "Raleway", sans-serif;
+    font-weight: 800;
+    font-size: 28px;
+    line-height: 33px;
+    display: inline-block; }
+  .header-block__info {
+    margin-left: 60px;
+    display: inline-block;
+    font-size: 13px;
+    font-weight: 600;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: right;
+    color: #FFFFFF;
+    font-family: "Lato", sans-serif; }
+  .header-block__text {
+    margin-top: 33.5px;
+    margin-bottom: 34px;
+    vertical-align: middle;
+    color: #fff; }
+
+.header-special__text {
+  font-weight: 400;
+  font-style: 28px;
+  line-height: 33px;
+  color: #42A9ED; }
+
+/*# sourceMappingURL=header.css.map */
